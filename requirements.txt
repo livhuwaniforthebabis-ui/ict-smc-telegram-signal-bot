@@ -1,6 +1,8 @@
-python-telegram-bot==20.7
+python-telegram-bot
 pandas
 numpy
 ccxt
 schedule
 matplotlib
+MetaTrader5
+mplfinance
